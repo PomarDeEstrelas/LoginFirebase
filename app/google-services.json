@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "500842412184",
+    "firebase_url": "https://loginfirebase-bd2c2.firebaseio.com",
+    "project_id": "loginfirebase-bd2c2",
+    "storage_bucket": "loginfirebase-bd2c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500842412184:android:9ce330c6dba7fd6499f8ed",
+        "android_client_info": {
+          "package_name": "br.com.thaislima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500842412184-m2380t1miljd43p70jhchclvaa7ean3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.thaislima",
+            "certificate_hash": "80d7aba3af0f29d89e62871ba62e18dd32e7bd9f"
+          }
+        },
+        {
+          "client_id": "500842412184-ado2eelb7phr2qn92picvt6n2ijddig2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeDlwETEgCSCwxLSmbTOxNspNVRFtd_6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500842412184-ado2eelb7phr2qn92picvt6n2ijddig2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
